@@ -1,0 +1,1 @@
+This tool helps in testing single SCO based SCORM 1.2 course and generate a log report. This tool is designed keeping in mind the need for an easy to use standalone tool to run and test SCORM 1.2 course developed with Adobe Flash content. This tool helps in reviewing the meta-data and the SCO and produces the log report that can be used for bug-fixing by developers.
